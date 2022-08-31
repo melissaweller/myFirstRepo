@@ -1,3 +1,5 @@
-Here is my first.
+I'm adding some text at the beginning
+
+Here is my first file.
 It has some text.
 Isnt't it great!!
